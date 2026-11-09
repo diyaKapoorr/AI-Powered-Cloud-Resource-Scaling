@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Generated files
+*.log
+.DS_Store
