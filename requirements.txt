@@ -1,0 +1,13 @@
+boto3
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+scipy
+statsmodels
+psutil
+wmi
+requests
+jupyter
